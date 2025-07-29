@@ -12,6 +12,13 @@ A <span style="color:#00BFFF;">machine learning</span> project for identifying f
 
 ---
 
+---
+# How to Run
+---
+```bash
+pip install -r requirements.txt
+```
+
 ## <span style="color:#1E90FF;">📊 Model Performance:</span>  
 
 | Model                   | F1-Train Score | F1-Test Score |
@@ -20,15 +27,12 @@ A <span style="color:#00BFFF;">machine learning</span> project for identifying f
 | Random Forest Classifier| 0.8897         | 0.8351        |
 | Decsion tree            | 0.8752         | 0.7614        |
 
+
+
 > ⚠️ <span style="color:#DC143C;">Note:</span> Accuracy can be misleading in imbalanced datasets — use F1 Score and PR-AUC instead.
 
 ---
----
-# How to Run
----
-```bash
-pip install -r requirements.txt
----
+
 
 ## <span style="color:#FF69B4;">🛠 Project Structure:</span>
 
