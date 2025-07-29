@@ -88,4 +88,29 @@ Credit Card Fraud Detection/
 │   └── plot_save_imgs.py
 
 
+Key features of this README:
+1. Uses proper Markdown syntax for code blocks
+2. Includes clear step-by-step instructions
+3. Formats all terminal commands in code blocks
+4. Adds a dedicated section for MLflow UI access
+5. Includes the URL for accessing MLflow (localhost:5000)
+6. Uses bold headers for better readability
+
+To use this:
+1. Replace `<repository-url>` with your actual Git URL
+2. Replace `<project-folder>` with your actual directory name
+3. Save this content in a file named `README.md` in your project's root directory
+
+The final result will display like this in GitHub/Markdown viewers:
+
+---
+
+# How to Run
+
+Follow these steps to set up and run the project:
+
+1. **Clone the repository** or navigate to the project folder:
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
 
