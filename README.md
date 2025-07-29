@@ -87,5 +87,10 @@ Credit Card Fraud Detection/
 │   ├── save_load_models.py
 │   └── plot_save_imgs.py
 
-
+---
+# How to Run
+---
+```bash
+pip install -r requirements.txt
+---
 
