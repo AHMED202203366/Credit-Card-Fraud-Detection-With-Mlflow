@@ -26,11 +26,7 @@ A <span style="color:#00BFFF;">machine learning</span> project for identifying f
 
 ## <span style="color:#FF69B4;">🛠 Project Structure:</span>
 
-<details>
-<summary>📁 Click to expand</summary>
 
-```bash
-## <span style="color:#FF69B4;">🛠 Project Structure:</span>
 
 <details>
 <summary>📁 Click to expand</summary>
