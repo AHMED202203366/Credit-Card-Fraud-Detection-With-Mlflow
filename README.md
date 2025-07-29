@@ -23,6 +23,12 @@ A <span style="color:#00BFFF;">machine learning</span> project for identifying f
 > ⚠️ <span style="color:#DC143C;">Note:</span> Accuracy can be misleading in imbalanced datasets — use F1 Score and PR-AUC instead.
 
 ---
+---
+# How to Run
+---
+```bash
+pip install -r requirements.txt
+---
 
 ## <span style="color:#FF69B4;">🛠 Project Structure:</span>
 
@@ -87,10 +93,5 @@ Credit Card Fraud Detection/
 │   ├── save_load_models.py
 │   └── plot_save_imgs.py
 
----
-# How to Run
----
-```bash
-pip install -r requirements.txt
----
+
 
