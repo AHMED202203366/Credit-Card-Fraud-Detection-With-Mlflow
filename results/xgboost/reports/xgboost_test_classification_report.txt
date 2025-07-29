@@ -1,0 +1,22 @@
+
+========== Evaluation Report (Test Set) =============
+
+--- Best Threshold Evaluation ---
+Best Threshold  : 0.5000
+Best Precision  : 0.7961
+Best Recall     : 0.8454
+Best F1 Score   : 0.8200
+ROC AUC         : 0.9797
+PR AUC          : 0.7808
+Confusion Matrix:
+[[56842    21]
+ [   15    82]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56863
+           1       0.80      0.85      0.82        97
+
+    accuracy                           1.00     56960
+   macro avg       0.90      0.92      0.91     56960
+weighted avg       1.00      1.00      1.00     56960

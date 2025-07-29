@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Course%20Mostafa%20Saad%20ML%20%26%20DL/HomeWork%20%26%20Projects/Projects/Credit%20Card%20Fraud%20Detection2/mlruns/0/e01f06168e67434daef110aaab3065b6/artifacts
+end_time: 1753810627039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e01f06168e67434daef110aaab3065b6
+run_name: decision_tree_test_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753810626871
+status: 3
+tags: []
+user_id: Lenovo
