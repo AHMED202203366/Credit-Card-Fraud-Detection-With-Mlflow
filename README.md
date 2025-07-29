@@ -14,9 +14,23 @@ A <span style="color:#00BFFF;">machine learning</span> project for identifying f
 
 ---
 # How to Run
+1. Clone the repository or navigate to the project folder.
+2. Install the required libraries:
 ---
 ```bash
 pip install -r requirements.txt
+```
+3. Run training
+```bash
+python Model/Train.py
+```
+4. Run testing and logging to MLflow
+```bash
+python Model/Test.py
+```
+MLflow UI can be viewed by running:
+```bash
+mlflow ui
 ```
 
 ## <span style="color:#1E90FF;">📊 Model Performance:</span>  
