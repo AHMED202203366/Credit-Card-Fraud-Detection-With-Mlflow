@@ -11,8 +11,6 @@ A <span style="color:#00BFFF;">machine learning</span> project for identifying f
 - **Evaluation:** Uses advanced metrics like <span style="color:#DC143C;">F1 Score</span> and <span style="color:#DC143C;">PR-AUC</span> to handle imbalanced data.
 
 ---
-
----
 # How to Run
 1. Clone the repository or navigate to the project folder.
 2. Install the required libraries:
